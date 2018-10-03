@@ -7,7 +7,8 @@ package romanos;
 
 /**
  *
- * @author CyA
+ * @author Ceshia Kedusha Mendoza Torres
+ * correo: torres.ceshia@gmail.com
  */
 public class README {
     /*
